@@ -20,7 +20,7 @@ I am not responsible for any damages!
 If you want to run Rover, don't forget to install Net Framework 4.0. You can have a newer version, but it can't be older. 
 Most Windows already have the Net Framework built in, but for example, Windows XP does not.
 
-The package has no installer in it. Just turn on the program and everything works.
+The package has no installer in it. Just turn on the program and enjoy.
 
 ## DEMONSTRATION
 https://www.youtube.com/watch?v=RT6WLne24Bc&ab_channel=CYBERSOLDIER
