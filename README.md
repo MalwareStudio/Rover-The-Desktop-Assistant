@@ -17,7 +17,7 @@ As this is a program that contains dangerous code, I recommend testing it on a V
 Do not under any circumstances run this program on physical hardware, it could cause unwanted damage! 
 I am not responsible for any damages!
 
-If you want to run Rover, don't forget to install Net Framework 4.0. You can have newer versions installed, but it can't be older. 
+If you want to run Rover, don't forget to install Net Framework 4.0. You can have a newer version, but it can't be older. 
 Most Windows already have the Net Framework built in, but for example, Windows XP does not.
 
 The package has no installer in it. Just turn on the program and everything works.
