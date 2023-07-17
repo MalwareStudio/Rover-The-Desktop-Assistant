@@ -2,7 +2,8 @@
 
 ![Speak](https://github.com/MalwareStudio/Rover-The-Desktop-Assistant/assets/49496834/33050f93-60f8-4e84-8530-89ad17bd5efb)
 ![Reading](https://github.com/MalwareStudio/Rover-The-Desktop-Assistant/assets/49496834/d1f2fdcf-6319-42c4-8d7f-c14074f15091)
-![Idle10](https://github.com/MalwareStudio/Rover-The-Desktop-Assistant/assets/49496834/294454ca-213e-48ab-b6c7-b50fa473cb4a)
+![Idle8](https://github.com/MalwareStudio/Rover-The-Desktop-Assistant/assets/49496834/e3f932d8-13c6-4fb8-8b60-d72ae54768aa)
+![Idle10](https://github.com/MalwareStudio/Rover-The-Desktop-Assistant/assets/49496834/d4e65fc0-42f6-445f-9d95-089ad8638dfb)
 
 ## WHAT or WHO IS ROVER?
 
